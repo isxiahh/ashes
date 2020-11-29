@@ -43,4 +43,4 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - run: npm i
       - run: index.js
-          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          
