@@ -43,4 +43,3 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - run: npm i
       - run: index.js
-          
